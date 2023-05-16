@@ -5,8 +5,8 @@
 - 😄 Pronouns: She/Her
 <div>
    <a href="https://github.com/Leastorga"></a> 
-   <img height="180cm" src= "https://github-readme-stats.vercel.app/api?username=Leastorga&show_icons=true&theme=radical" >
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leastorga&layout=compact&theme=radical">
+   <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=Leastorga&show_icons=true&theme=radical" >
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leastorga&layout=compact&theme=radical">
     
  </div>
  <div style="display: inline_block"><br>
@@ -23,7 +23,7 @@
     <a href="https://www.linkedin.com/in/leticia-astorga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:leticia.trancozo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-   ![Snake animation](https://github.com/Leastorga/Leastorga/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leastorga/Leastorga/blob/output/github-contribution-grid-snake.svg)
  
  </div>
  
