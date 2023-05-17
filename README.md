@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c71585&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Letícia+Astorga;I'm+18+years+old;I'm+from+Brazil;I+do+technologist+in+data+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c71585&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Letícia+Astorga;I'm+18+years+old;I'm+from+Brazil;I+do+technologist+in+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
    <a href="https://github.com/Leastorga"></a> 
    <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=Leastorga&show_icons=true&title_color=c71585&text_color=c71585&icon_color=c71585" >
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leastorga&layout=compact&title_color=c71585&text_color=000000">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leastorga&layout=compact&title_color=c71585&text_color=000000">
     
 ## Main skills:
    
