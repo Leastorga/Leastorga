@@ -6,7 +6,7 @@
 <div>
    <a href="https://github.com/Leastorga"></a> 
    <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=Leastorga&show_icons=true&title_color=c71585&text_color=c71585&icon_color=c71585" >
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leastorga&&layout=compact&title_color=c71585&text_color=000000">
+   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leastorga&&layout=compact&title_color=c71585&text_color=000000">
     
 ## Main skills:
    
