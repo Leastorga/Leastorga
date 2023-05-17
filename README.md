@@ -5,7 +5,7 @@
 
 <div>
    <a href="https://github.com/Leastorga"></a> 
-   <img margin-left="20px" height="160em" src= "https://github-readme-stats.vercel.app/api?username=Leastorga&show_icons=true&title_color=c71585&text_color=c71585&icon_color=c71585" >
+   <img style="margin-left: 60px;" height="160em" src= "https://github-readme-stats.vercel.app/api?username=Leastorga&show_icons=true&title_color=c71585&text_color=c71585&icon_color=c71585" >
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leastorga&&layout=compact&title_color=c71585&text_color=000000">
     
 ## Main skills:
