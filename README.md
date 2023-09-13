@@ -16,9 +16,9 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leastorga&bg_color=none&color=c71585&line=c71585&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  </div>  
-## Main skills:
    
 </div>
+Main skills: 
  <div style="display: inline_block"><br>
   <img align="center" alt="Le-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Le-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
