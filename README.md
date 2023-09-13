@@ -5,9 +5,17 @@
 
 <div>
    <a href="https://github.com/Leastorga"></a> 
-   <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=Leastorga&show_icons=true&title_color=c71585&text_color=c71585&icon_color=c71585" >
-   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leastorga&&layout=compact&title_color=c71585&text_color=000000">
-    
+   <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=Leastorga&theme=github_dark&hide_border=trueshow_icons=true&title_color=c71585&text_color=c71585&icon_color=c71585" >
+   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leastorga&theme=github_dark&hide_border=trueshow_icons=truee&layout=compact&title_color=c71585&text_color=c71585">
+
+   <div align=center>
+  <!-- 
+   ![Snake animation](https://github.com/KevenAbraham/KevenAbraham/blob/output/github-contribution-grid-snake.svg) 
+  -->
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leastorga&bg_color=none&color=c71585&line=c71585&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+ </div>  
 ## Main skills:
    
 </div>
