@@ -21,12 +21,10 @@
   </a>
   
    
-# Main skills: 
+<!-- # Main skills: 
  <div style="display: inline-block"><br>
 <!--   <img align="center" alt="Le-Js" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  -->
-  <img align="center" alt="Le-HTML" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Le-CSS" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
  
 
 
@@ -34,6 +32,9 @@
  <div style="display: inline-block"><br>
  <img align="center" alt="Le-Js" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
  <img align="center" alt="Le-Js" height="70" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+   <img align="center" alt="Le-HTML" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Le-CSS" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
           
              
  </div>
